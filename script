@@ -4,7 +4,7 @@ stage "Stage#" + i
 print 'hello, world!'
 
 if(i==0){
-git "https://github.com/MyTraining2019/capg-pipe.git"
+git "https://github.com/vishakhanikumbh730/jenkinsscript.git"
 echo "Running on Stage#0"
 }
 else{
